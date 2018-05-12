@@ -1,0 +1,29 @@
+_repo: The-Kit-b-i-Aqdas_16523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bahá'u'lláh
+    alias: Baha'u'llah
+    birthdate: 1817
+    deathdate: 1892
+    gutenberg_agent_id: '6767'
+    url: http://www.gutenberg.org/2009/agents/6767
+    wikipedia: http://en.wikipedia.org/wiki/Bahá'u'lláh
+description: ''
+gutenberg_bookshelf: Bahá'í Faith
+gutenberg_issued: '2005-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16523'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'BP'
+- !lcsh 'Bahai Faith'
+title: The Kitáb-i-Aqdas
+url: http://www.gutenberg.org/ebooks/16523
